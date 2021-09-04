@@ -1,0 +1,5 @@
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projCoisa\projCoisa\bin\Debug\projCoisa.exe
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projCoisa\projCoisa\bin\Debug\projCoisa.pdb
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projCoisa\projCoisa\obj\x86\Debug\projCoisa.exe
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projCoisa\projCoisa\obj\x86\Debug\projCoisa.pdb
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projCoisa\projCoisa\obj\x86\Debug\projCoisa.csprojResolveAssemblyReference.cache
